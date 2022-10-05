@@ -2,7 +2,6 @@
 //  CourseViewController.swift
 //  UIKit for iOS 15
 //
-//  Created by Sai Kambampati on 11/5/21.
 //
 
 import UIKit
